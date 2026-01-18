@@ -41,7 +41,7 @@ Backend: Python 3.10, FastAPI, Pandas, Scikit-learn, Pymorphy3.
 
 ## Архитектура проекта
 
-WAZI/
+key-classifier/
 ├── backend/ # Серверная часть (Python)
 │ ├── main.py # Основной серверный скрипт
 │ ├── preprocessing.py # Скрипт предварительной обработки данных
